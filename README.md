@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Futura&pause=1000&color=4427F7&width=435&lines=Sukrut+Nadigotti)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Futura&weight=500&size=22&pause=1000&color=4427F7&width=435&lines=Sukrut+Nadigotti;CS+Student+%40+Wayne+State;Full-Stack+Developer)](https://git.io/typing-svg)
