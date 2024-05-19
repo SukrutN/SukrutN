@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Futura&weight=500&size=22&pause=1000&color=4427F7&width=435&lines=Sukrut+Nadigotti;CS+Student+%40+Wayne+State;Full-Stack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2272F7&background=FF427600&random=false&width=435&lines=Sukrut+Nadigotti;Software+Engineer;CS+%40+Wayne+State+University)](https://git.io/typing-svg)
