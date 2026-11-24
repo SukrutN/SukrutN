@@ -14,7 +14,7 @@ Five systems, five repos. One discipline holds them together: the supervisory la
 | **Picking & labor** | [`northspan`](https://github.com/SukrutN/northspan) | Pick-path planning (nearest neighbour + two-opt against the serpentine sweep) and engineered labor standards: minutes per unit, units per hour, a zone-by-band matrix | [live](https://sukrutn.github.io/northspan/) |
 | **Fleet** | [`hearthlane`](https://github.com/SukrutN/hearthlane) | Multi-agent pathfinding for warehouse robots: CBS and ICBS over a painted floor, deadlines, congestion, and a release gate — a hundred robots planned jointly in about 67 ms | [live](https://sukrutn.github.io/hearthlane/) |
 
-**Read them as one system:** [`manifest`](https://github.com/SukrutN/manifest) — the architecture that connects the five, one order's day through all of them, and the real-world interfaces each layer would meet.
+**Read them as one system:** [`manifest`](https://github.com/SukrutN/manifest) — the architecture that connects the five, one order's day through all of them, and the real-world interfaces each layer would meet ([live site](https://sukrutn.github.io/manifest/)).
 
 ## What to look at in any of them
 
